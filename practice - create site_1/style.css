@@ -1,0 +1,24 @@
+.top {
+    border: solid 1px grey;
+    background-color: teal;
+}
+
+.top div {
+    flex: 1;
+    background-color: thistle;
+    display: inline-block;
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+}
+
+.top {
+    flex: 1;
+}

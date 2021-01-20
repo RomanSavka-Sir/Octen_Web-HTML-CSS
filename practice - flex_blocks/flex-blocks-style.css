@@ -1,0 +1,363 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    border: 2px solid red;
+    background-color: red;
+    width: 950px;
+}
+
+.text {
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    background-color: rosybrown;
+    height: 300px;
+}
+
+.header2 {
+    background-color: white;
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+.header3 {
+    background-color: black;
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.header4 {
+    background-color: red;
+    width: 45%;
+    height: 50px;
+    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+}
+
+.header5 {
+    background-color: green;
+    width: 45%;
+    height: 50px;
+    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+}
+
+.header6 {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-part1 {
+    background-color: black;
+    height: 200px;
+    margin: 0;
+}
+
+.main1 {
+    display: flex;
+    height: 170px;
+}
+
+.main2 {
+    background-color: red;
+    width: 25%;
+    padding-top: 50px;
+
+}
+
+.main3 {
+    background-color: orange;
+    width: 25%;
+    padding-top: 50px;
+}
+
+.main4 {
+    background-color: rosybrown;
+    width: 25%;
+    padding-top: 50px;
+}
+
+.main5 {
+    background-color: green;
+    width: 25%;
+    padding-top: 50px;
+}
+
+.menu-part2 {
+    display: flex;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+
+}
+.main7{
+    width: 33.35%;
+    background-color: green;;
+}
+.main8{
+    width: 33.34%;
+    background-color: red;
+}
+.main9{
+    width: 33.35%;
+    background-color: blue;
+}
+.new-main1{
+    display: flex;
+    height: 110px;
+    margin: 0;
+    padding: 0;
+}
+
+.new-main2{
+    background-color: green;
+    width: 33.37%;
+}
+
+.new-main3{
+background-color: rosybrown;
+    width: 33.37%;
+}
+
+.new-main4{
+    background-color: white;
+    height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 30px;
+
+
+}
+
+.new-main5{
+    display: flex;
+    height: 50px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.new-main6{
+background-color: red;
+    width: 33.34%;
+}
+
+.new-main7{
+background-color: rosybrown;
+    width: 33.34%;
+
+}
+
+.new-main8{
+background-color: green;
+    width: 33.34%;
+
+}
+.new-main9{
+    display: flex;
+    height: 110px;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+
+}
+.new-main10{
+    width: 33.33%;
+    background-color: green;
+}
+
+.new-main11{
+    width: 33.33%;
+    background-color: red;
+}
+
+.new-main12{
+    background-color: white;
+    height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+
+.new-main13{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+}
+
+.new-main14{
+    background-color: red;
+    width: 40%;
+}
+
+.new-main15{
+    background-color: green;
+    width: 40%;
+}
+.menu-menu{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-part-1{
+    background-color: orange;
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.menu-part-2{
+    background-color: red;
+    width: 40%;
+    height: 150px;
+
+
+}
+
+.menu-part-3{
+    background-color: rosybrown;
+    width: 40%;
+    height: 150px;
+
+}
+
+.main8-1{
+    display: flex;
+    height: 200px;
+    margin-top: 184px;
+
+
+}
+
+.main8-2{
+    background-color: blue;
+    width: 33.33%;
+}
+.main8-3{
+    background-color: orange;
+    width: 33.33%;
+
+}
+.main8-4{
+    background-color: green;
+    width: 33.33%;
+
+}
+
+.main8-5{
+    width: 90%;
+    height: 80px;
+    background-color: white;
+    padding-top: 20px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.main8-6{
+    background-color: black;
+    width: 80%;
+    height: 40px;
+    margin: 0 auto;
+ }
+
+.main8-7{
+    background-color: rosybrown;
+    height: 94px;
+    width: 90%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    margin-top: 5px;
+    padding-top: 30px;
+}
+
+.main8-8{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+
+.main8-9{
+    background-color: red;
+    width: 40%;
+}
+
+.main8-10{
+    background-color: green;
+    width: 40%;
+}
+
+.main8-11{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.main8-12{
+    background-color: red;
+    width: 50%;
+    height: 140px;
+}
+
+.main8-13{
+    background-color: rosybrown;
+    width: 50%;
+    height: 90px;
+    margin-top: 30px;
+}
+
+.main9-1{
+    background-color: white;
+    position: relative;
+    width: 105px;
+    height: 200px;
+    top: 184px;
+
+}
+
+.main9-2{
+    background-color: orange;
+    width: 105px;
+    height: 200px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: black;
+    height: 170px;
+}

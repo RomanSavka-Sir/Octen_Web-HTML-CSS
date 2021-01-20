@@ -1,0 +1,235 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+.header-top {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    align-items: center;
+    justify-content: center;
+    height: 15px;
+}
+
+.nav-top {
+    margin: 0 12px;
+}
+
+.nav-top a {
+    text-transform: uppercase;
+    color: #1a1a1a;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 11px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.nav-top1 a {
+    text-transform: uppercase;
+    color: #7f0119;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 11px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.nav-top1 a:hover {
+    color: #846671
+}
+
+.nav-top a:hover {
+    color: #a6a5a5;
+}
+
+.header-logo {
+    background-color: #7f0119;
+    height: 63px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo-menu {
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+}
+
+.logo1 {
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+.logo-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 800;
+}
+
+.logo-name {
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.logo-name a {
+    font-size: 28px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.header-bottom {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    align-items: center;
+    justify-content: center;
+    height: 19px;
+}
+
+.header-m a {
+    text-transform: uppercase;
+    color: #1a1a1a;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0 12px;
+}
+
+.header-m1 a {
+    text-transform: uppercase;
+    color: #7f0119;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0 12px;
+}
+
+.header-m a:hover {
+    color: #846671
+}
+
+.header-m1 a:hover {
+    color: #a6a5a5;
+}
+
+.logo-bottom {
+    display: flex;
+    align-items: center;
+}
+
+.logo2 {
+    margin-right: 40px;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.logo3 button {
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    background-color: #b10e18;
+    border: 3px solid white;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.title {
+    height: 19px;
+    margin-top: 25px;
+    color: #900022;
+    font-size: 18px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+}
+
+.main-block {
+    padding: 0 30px;
+}
+
+.main-grafs {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.main-box {
+    border: 1px solid #e3e3e3;
+    width: 285px;
+    height: 47px;
+    padding: 13px 0;
+}
+
+.main-footer {
+    height: 15px;
+    padding-top: 5px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 13px;
+}
+
+.main-final {
+    height: 23px;
+    padding-top: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    color: #900022;
+    text-transform: uppercase;
+}
+
+.main-block1 {
+    background-color: #3B3B3E;
+    height: 339px;
+    padding: 0 30px;
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+
+.main-news {
+    display: flex;
+    align-items: center;
+}
+
+.main-news1 img {
+    height: 140px;
+    width: 240px;
+}
+
+.main-news2 {
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 20px;
+}
+
+.main-news2 h1 {
+    padding: 0;
+    margin: 0;
+}
+
+.main-news3 {}
+
+.height {
+    font-size: 40px;
+}
